@@ -1,6 +1,20 @@
 # Angular Tutorials - First-App
 
+https://angular.io/tutorial/first-app
 
+## :hammer: Status
+
+> :construction: Ongoing :wrench:
+
+## App Interface
+
+### :iphone: Planned Design
+
+<p align="center"><img alt="Planned design" title="Angular Homes Planned Design" src="./.github/homes-app-landing-page.png" /></p>
+
+<!--### :tada: Final Result
+
+<p align="center"><img alt="Final result" title="Angular Homes Final Interface" src="./.github/homes-app-landing-page-final.png" /></p>-->
 
 ## Development server
 
