@@ -39,3 +39,23 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## New concepts learned in this tutorial
+
+### Angular Interface
+
+Angular can help us create TypeScript interfaces:
+
+https://angular.io/tutorial/first-app/first-app-lesson-04#first-angular-app-lesson-4---creating-an-interface
+
+```bash
+ng generate interface <interface_name>
+```
+
+Example of generated interface:
+
+```typescript
+/* src/app/housing-location.ts */
+export interface HousingLocation {
+}
+```
