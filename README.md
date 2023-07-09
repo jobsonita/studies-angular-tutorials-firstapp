@@ -63,3 +63,11 @@ Example of generated interface:
 export interface HousingLocation {
 }
 ```
+
+## JSON Server
+
+During the last lesson of the tutorial, we use `json-server` to provide us with a mock REST API. If you don't have it, make sure to install it through npm:
+
+```bash
+npm install -g json-server
+```
