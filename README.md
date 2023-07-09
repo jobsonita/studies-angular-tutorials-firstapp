@@ -71,3 +71,17 @@ During the last lesson of the tutorial, we use `json-server` to provide us with 
 ```bash
 npm install -g json-server
 ```
+
+To make things easy, I added a `json-db` script to `package.json` that we can run through:
+
+```bash
+npm run json-db
+```
+
+The script will run the followin command:
+
+```bash
+json-server --host 0.0.0.0 --watch db.json
+```
+
+Once the JSON server is up, we can access localhost at port 3000 and fetch our data by accessing the `/db` (will return the whole database) or `/locations` (will return only the `locations` list) paths.
