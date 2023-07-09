@@ -85,3 +85,5 @@ json-server --host 0.0.0.0 --watch db.json
 ```
 
 Once the JSON server is up, we can access localhost at port 3000 and fetch our data by accessing the `/db` (will return the whole database) or `/locations` (will return only the `locations` list) paths.
+
+Note: on Codespaces, for the Angular app to be able to fetch data from the json-server, you need to set the fetch url to your Codespace url with port 3000, and set its visibility to public.
