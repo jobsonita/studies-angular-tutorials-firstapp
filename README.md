@@ -12,9 +12,9 @@ https://angular.io/tutorial/first-app
 
 <p align="center"><img alt="Planned design" title="Angular Homes Planned Design" src="./.github/homes-app-landing-page.png" /></p>
 
-<!--### :tada: Final Result
+### :tada: Final Result
 
-<p align="center"><img alt="Final result" title="Angular Homes Final Interface" src="./.github/homes-app-landing-page-final.png" /></p>-->
+<p align="center"><img alt="Final result" title="Angular Homes Final Interface" src="./.github/homes-app-landing-page-final.jpg" /></p>
 
 ## Development server
 
