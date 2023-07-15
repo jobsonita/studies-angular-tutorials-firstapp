@@ -2,10 +2,6 @@
 
 https://angular.io/tutorial/first-app
 
-## :hammer: Status
-
-> :construction: Ongoing :wrench:
-
 ## App Interface
 
 ### :iphone: Planned Design
