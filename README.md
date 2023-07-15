@@ -40,26 +40,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 For essential angular concepts, see the README of previous tutorials at https://github.com/jobsonita/studies-angular-setupstartguides#readme
 
-## New concepts learned in this tutorial
-
-### Angular Interface
-
-Angular can help us create TypeScript interfaces:
-
-https://angular.io/tutorial/first-app/first-app-lesson-04#first-angular-app-lesson-4---creating-an-interface
-
-```bash
-ng generate interface <interface_name>
-```
-
-Example of generated interface:
-
-```typescript
-/* src/app/housing-location.ts */
-export interface HousingLocation {
-}
-```
-
 ## JSON Server
 
 During the last lesson of the tutorial, we use `json-server` to provide us with a mock REST API. If you don't have it, make sure to install it through npm:
